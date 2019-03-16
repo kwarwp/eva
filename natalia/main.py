@@ -6,6 +6,8 @@ def Historia():
 	apolo = Elemento (img = LinkDoCachorro,
                         tit="apolo",
                         style=dict(left=150, top=60, widt=60, height=200))
-	apolo.entra(cenaCout)                   
+	apolo.entra(cenaCout) 
+	txtcachorro = Texto (cenaCout, "hello")
+	cahorro.vai = txtcachorro.vai
 	cenaCout.vai()
 Historia()
