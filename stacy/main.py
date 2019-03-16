@@ -6,5 +6,6 @@ def Historia():
 	sereia = Elemento (imag = linkDaSereia,
                         tit="Mar",
                         style=dict(left=150, top=60, width=60, height=200)
+	sereia.entra(cenadofundodomar)
 	cenafundodomar.vai()
 Historia()
