@@ -104,3 +104,10 @@ SyntaxError: EOL while scanning string literal
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Sat Mar 16 2019 11:55:32.792 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  TomandJerry= Elemento (img = linkdooTmandJerry,
+                                                                                                                             ^
+SyntaxError: invalid syntax
+'''},
