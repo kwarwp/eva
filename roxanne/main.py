@@ -6,6 +6,6 @@ def Historia():
 	faniquita = Elemento (img = linkFaniquita,
                            tit="Faniquita",
                            style=dict(left=150,top=60 width=60, height=200))
-faniquita.entra(cenafeliz)
-cenafeliz.vai()
+	faniquita.entra(cenafeliz)
+	cenafeliz.vai()
 Historia()
