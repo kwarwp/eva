@@ -6,5 +6,6 @@ def Historia():
 	bobesponja = Elemento (img = linkDoBobEsponja,
                             tit="BobEsponja",
                             style=dict(left=150, top=60, widt=60, height=200))
+	bobesponja.entra(cenaPineapple)
 	cenaPineapple.vai()
 Historia()
