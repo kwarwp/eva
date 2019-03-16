@@ -5,10 +5,11 @@ def Historia():
 	cenafloresta = Cena https://www.mundoecologia.com.br/wp-content/gallery/ecologia-de-plantas/Ecologia-de-Plantas-4.png= "https://www.mundoecologia.com.br/wp-content/gallery/ecologia-de-plantas/Ecologia-de-Plantas-4.png")
 	xango = Elemento(img=linkxango,
                       tit="xango",
-                      style=edict(left=150,top =60,width=60,height=200))
+                      style=dict(left=150, top =60, width=60, height=200))
 	
 	cenafloresta.vai()
 Historia()
 
 	xango.entra(Cenafloresta)
 	txtxango=texto(Cenafloresta,'hello'
+	  xango .vai=txtxango.vai 
