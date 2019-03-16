@@ -6,7 +6,7 @@ def Historia():
     
 	mickey = Elemento (img = linkDoMickey,
                         tit="Mickey",
-                        style=dict(left=50, top=60, width=150, height=500))
+                        style=dict(left=30, top=60, width=150, height=500))
 	mickey.entra(cenaParque)
 	cenaParque.vai()
 Historia()
