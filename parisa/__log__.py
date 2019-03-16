@@ -132,3 +132,10 @@ SyntaxError: invalid syntax
                                                                                                                               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 12:01:02.924 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  TomandJerry = Elemento (img =linkDoTomandJerry,
+                                                                                                                             ^
+SyntaxError: invalid syntax
+'''},
