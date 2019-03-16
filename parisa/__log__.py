@@ -146,3 +146,10 @@ SyntaxError: invalid syntax
                             ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 12:18:04.478 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  tomandJerry.vai=(txttomandJerry.vai
+  ^
+IndentationError: unexpected indent
+'''},
