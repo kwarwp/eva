@@ -4,6 +4,7 @@ linkFaniquita ="https://i.pinimg.com/originals/53/48/7d/53487d3650ef3eb22f3c8f29
 def Historia():
 	cenafeliz = Cena (img = "http://4.bp.blogspot.com/-Ys6mlN-qZaE/VXgmiaGmdyI/AAAAAAAAGoA/fIt-6VwUrdI/s1600/fundos-para-montagens-de-fotos-infantil%2B%25285%2529.jpg")
 	faniquita = Elemento (img =linkfaniquita,
-    
-    cenafeliz.vai()
+                           tit="Faniquita",
+                           style=dict(left=150,top=60 width=60, height=200))_
+cenafeliz.vai()
 Historia()
