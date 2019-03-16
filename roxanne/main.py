@@ -5,7 +5,7 @@ def Historia():
 	cenaFeliz = Cena (img = "http://4.bp.blogspot.com/-Ys6mlN-qZaE/VXgmiaGmdyI/AAAAAAAAGoA/fIt-6VwUrdI/s1600/fundos-para-montagens-de-fotos-infantil%2B%25285%2529.jpg")
 	faniquita = Elemento (img = linkFaniquita,
                            tit="Faniquita",
-                           style=dict(left=150, top=60, width=100, height=60))
+                           style=dict(left=70, top=60, width=100, height=60))
 	faniquita.entra(cenaFeliz)
 	cenaFeliz.vai()
 Historia()
