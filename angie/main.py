@@ -7,6 +7,7 @@ def Historia():
                         tit="Temari",
                         style=dict(left=150, top=60, width=60, height=200))
  	Temari.entra(cenaAldeiadaAreia)
- 	txt = Texto ( cenaAldeiadaAreia
+ 	txt = Texto ( cenaAldeiadaAreia, "Hello")
+ 	Temari.vai = txtTemari.vai
  	cenaAldeiadaAreia.vai()
 Historia()
