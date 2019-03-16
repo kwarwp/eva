@@ -90,3 +90,10 @@ IndentationError: expected an indented block
                                                                                                                                     ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Sat Mar 16 2019 11:51:56.839 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  tit="TomandJerry)
+                   ^
+SyntaxError: EOL while scanning string literal
+'''},
