@@ -7,7 +7,7 @@ def Historia():
                       tit="xango",
                       style=dict(left=150, top =60, width=60, height=200))
 	xango.entra(cenafloresta)
-	txtxango =T exto(cenafloresta,"hello")
+	txtxango = Texto(cenafloresta,"hello")
 	xango.vai=txtxango.vai 
 	cenafloresta.vai()
 Historia()
