@@ -97,3 +97,10 @@ SyntaxError: EOL while scanning string literal
                    ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Sat Mar 16 2019 11:52:50.147 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  style=dict(left=150, top=60, windth=60,height=200))
+  ^
+IndentationError: unexpected indent
+'''},
