@@ -10,4 +10,4 @@ def Historia():
 	cenafloresta.vai()
 Historia()
 
-	xango
+	xango.entra(Cenafloresta)
