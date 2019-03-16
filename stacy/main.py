@@ -5,7 +5,7 @@ def Historia():
 	cenaFundodomar = Cena (img = "https://img.elo7.com.br/product/original/132A83E/painel-fundo-do-mar-g-frete-gratis-festa-de-aniversario.jpg")
 	pequenasereia = Elemento (img = linkDaSereia,
                                tit="Mar",
-                               style=dict(left=150, top=60, width=60, height=100))
+                               style=dict(left=100, top=60, width=60, height=100))
 	pequenasereia.entra(cenaFundodomar)
 	cenaFundodomar.vai()
 Historia()
