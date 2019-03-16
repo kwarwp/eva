@@ -5,7 +5,7 @@ def Historia():
 	cenaParque = Cena (img = "http://starkovtattoo.spb.ru/images/400/DSC100466834.jpg")
 	mickey = Elemento (img = linkDoMickey,
                         tit="Mickey",
-                        style=dict(left=130, top=70, width=150, height=500))
+                        style=dict(left=130, top=60, width=150, height=500))
 	mickey.entra(cenaParque)
 	cenaParque.vai()
 Historia()
