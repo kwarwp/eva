@@ -250,3 +250,10 @@ Traceback (most recent call last):
     Historia()
 NameError: name 'Historia' is not defined
 '''},
+{'date': 'Sat Mar 16 2019 11:47:50.326 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  faniquita = Elemento (img =linkfaniquita,
+                                                                                                                                               ^
+SyntaxError: invalid syntax
+'''},
