@@ -139,3 +139,10 @@ SyntaxError: invalid syntax
                                                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 12:05:40.785 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  linkDoTomandJerry = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76gDxCl_SENmx4-FjMGDWSi4TZzYE-__Yn1WYOzytmCGxsXnbon-junction/tom_and_jerry.ashxtom_and_jerry.ashx"
+                            ^
+SyntaxError: invalid syntax
+'''},
