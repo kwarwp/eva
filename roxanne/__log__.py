@@ -292,3 +292,10 @@ SyntaxError: invalid syntax
                                                                                                                                                ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:54:20.548 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  faniquita = Elemento (img = linkFaniquita,
+                                                                                                                                                ^
+SyntaxError: invalid syntax
+'''},
