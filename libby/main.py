@@ -6,6 +6,7 @@ def Historia():
 	moana = Elemento (img = linkdamoana, 
                        tit="moana",
                        style=dict(left=150, top=60,  Width=60, height=200))
+	moana.entra(cenaPraiamoana)                       
 	cenaPraiamoana.vai()
 Historia()
         
