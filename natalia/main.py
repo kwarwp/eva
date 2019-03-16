@@ -6,6 +6,6 @@ def Historia():
 	apolo = Elemento (img = LinkDoCachorro,
                         tit"apolo",
                         style=dict(left=150, top=60, widt=60, height=200))
-	cachorro.entra(cenaCout)
+	apolo.entra(cenaCout)
 	cenaCout.vai()
 Historia()
