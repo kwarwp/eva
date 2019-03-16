@@ -6,10 +6,11 @@ def Historia():
 	xango = Elemento(img=linkxango,
                       tit="xango",
                       style=dict(left=150, top =60, width=60, height=200))
-	
+	xango.entra(Cenafloresta)
+	txtxango=texto(Cenafloresta,'hello'
+	xango.vai=txtxango.vai 
+    
 	cenafloresta.vai()
 Historia()
 
-	xango.entra(Cenafloresta)
-	txtxango=texto(Cenafloresta,'hello'
-	  xango .vai=txtxango.vai 
+	
