@@ -4,7 +4,7 @@ LinkDoCachorro = "J4Ihyr/AGk/yH/lDVSln/uEckp+oMFgWIIg6E6zF/0j0EQzFSk9qY3OaR5Zmgs
 def Historia():
 	cenaCout = Cena (img = "https://q-ec.bstatic.com/images/hotel/max1024x768/837/83757797.jpg")
 	apolo = Elemento (img = LinkDoCachorro,
-                        tit"apolo",
+                        tit="apolo",
                         style=dict(left=150, top=60, widt=60, height=200))
 	apolo.entra(cenaCout)                   
 	cenaCout.vai()
