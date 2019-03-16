@@ -5,7 +5,7 @@ def Historia():
 	cenaPraiamoana = Cena (img = "https://img.elo7.com.br/product/original/16965E0/painel-praia-g-frete-gratis-infanitl.jpg")
 	moana = Elemento (img = linkdamoana, 
                        tit="moana",
-                       style=dict(left=10, top=60,  Width=60, height=50))
+                       style=dict(left=20, top=60,  Width=60, height=50))
 	moana.entra(cenaPraiamoana)                       
 	cenaPraiamoana.vai()
 Historia()
