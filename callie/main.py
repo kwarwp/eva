@@ -7,5 +7,7 @@ def Historia():
                       tit="Garfield",
                       style=dict(left=150, top=60, width=60, height=200))
 	gato.entra(cenaHouse)
+	txtGato = Texto (cenaHouse, "Hello")
+	
 	cenaHouse.vai()
 Historia()
