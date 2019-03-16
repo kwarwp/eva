@@ -6,5 +6,6 @@ def Historia():
 	Temari = Elemento (img =  linkDaTemari,
                         tit="Temari",
                         style=dict(left=150, top=60, width=60, height=200))
-    cenaAldeiadaAreia.vai()
+ 	Temari.entra(cenaAldeiradaAreia)
+ 	cenaAldeiadaAreia.vai()
 Historia()
