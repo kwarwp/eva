@@ -4,6 +4,6 @@ linkDoGato ="https://vignette.wikia.nocookie.net/character-stats-and-profiles/im
 def Historia():
 	cenaHouse = Cena (img = "https://www.simsnetwork.com/sites/simsnetwork.com/files/styles/box-downloads/public/20140218-downloads-arbuckle-03.jpg?itok=TcZfhuU-")
 	gato = Elemento (img = linkDoGato,
-                      
+                      tit="Garfield",
 	cenaHouse.vai()
 Historia()
