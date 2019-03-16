@@ -111,3 +111,10 @@ IndentationError: unexpected indent
                                                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:57:36.842 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  TomandJerry = Elemento (img = linkdooTmandJerry,
+                                                                                                                              ^
+SyntaxError: invalid syntax
+'''},
