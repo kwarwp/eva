@@ -4,5 +4,7 @@ linkDaTemari = "https://i.pinimg.com/originals/63/64/cf/6364cf82ddf68873bae992d2
 def Historia(): 
 	cenaAldeiadaAreia = Cena (img = "https://pm1.narvii.com/6398/faaf9efd310bba5b5fc7ee68cb18ca138d43e30b_hq.jpg")
 	Temari = Elemento (img =  linkDaTemari,
+                        tit="Temari",
+                        style
     cenaAldeiadaAreia.vai()
 Historia()
