@@ -9,8 +9,5 @@ def Historia():
 	xango.entra(cenafloresta)
 	txtxango =T exto(cenafloresta,"hello")
 	xango.vai=txtxango.vai 
-    
 	cenafloresta.vai()
 Historia()
-
-	
