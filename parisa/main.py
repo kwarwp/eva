@@ -5,7 +5,7 @@ def Historia():
 	cenaHouse = Cena (img ="https://system.soprojetos.com.br/files/606/project_page_e/cod-94-projetos_de_casas_modelo_001.jpg?1491503956")
 	tomandJerry = Elemento (img =linkDoTomandJerry,
                              tit="TomandJerry",
-                             style=dict(left=150, top=60, windth=60, height=200))
+                             style=dict(left=90, top=60, windth=60, height=200))
 	tomandJerry.entra(cenaHouse)
 	txtDoTomandJerry = Texto (cenaHouse,"Hello")
 	tomandJerry.vai=txtDoTomandJerry.vai
