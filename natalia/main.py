@@ -5,7 +5,7 @@ def Historia():
 	cenaCout = Cena (img = "https://q-ec.bstatic.com/images/hotel/max1024x768/837/83757797.jpg")
 	apolo = Elemento (img = LinkDoCachorro,
                         tit="apolo",
-                        style=dict(left=100, top=60, widt=60, height=200))
+                        style=dict(left=80, top=60, widt=60, height=200))
 	apolo.entra(cenaCout) 
 	txtcachorro = Texto (cenaCout, "hello")
 	apolo.vai = txtcachorro.vai
