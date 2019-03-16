@@ -9,5 +9,5 @@ def Historia():
 	tomandJerry.entra(cenaHouse)
 	txtDoTomandJerry = Texto (cenaHouse,"Hello")
 	    tomandJerry.vai=(txttomandJerry.vai
-	cenaHouse.vsi()
+	cenaHouse.vai()
     Historia
