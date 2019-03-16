@@ -7,7 +7,7 @@ def Historia():
                                tit="Mar",
                                style=dict(left=30, top=60, width=180, height=100))
 	pequenasereia.entra(cenaFundodomar)
-	txtpequenasereia = Texto (cenaFundodomar, "Hello"
+	txtpequenasereia = Texto (cenaFundodomar, "Hello")
 	pequenasereia.vai = txtpequenasereia.vai()
 	cenaFundodomar.vai()
 Historia()
