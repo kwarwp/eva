@@ -11,3 +11,4 @@ def Historia():
 Historia()
 
 	xango.entra(Cenafloresta)
+	txtxango=texto(Cenafloresta,'hello'
