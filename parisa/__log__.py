@@ -83,3 +83,10 @@ SyntaxError: EOL while scanning string literal
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Sat Mar 16 2019 11:30:54.367 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  cenaHouse = Cena (img ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AU55ME39mqUaas9E_eu_1YquG8lOU-vNnj-nGpEza1DckseESA
+                                                                                                                                    ^
+SyntaxError: EOL while scanning string literal
+'''},
