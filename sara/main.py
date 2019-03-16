@@ -7,4 +7,4 @@ def Historia():
 	cenafloresta.vai()
 Historia()
 tit='xango',
-style=edict
+style=edict(leFT=150,TOP =60,width=60,height=200
