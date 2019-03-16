@@ -27,3 +27,10 @@ SyntaxError: invalid syntax
                                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:29:57.568 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  cenaAldeiadaAreia = Cena (img = "https://pm1.narvii.com/6398/faaf9efd310bba5b5fc7ee68cb18ca138d43e30b_hq.jpg"
+                                                                                                                  ^
+SyntaxError: invalid syntax
+'''},
