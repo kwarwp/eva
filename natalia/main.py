@@ -8,6 +8,6 @@ def Historia():
                         style=dict(left=150, top=60, widt=60, height=200))
 	apolo.entra(cenaCout) 
 	txtcachorro = Texto (cenaCout, "hello")
-	cahorro.vai = txtCachorro.vai
+	cahorro.vai = txtapolo.vai
 	cenaCout.vai()
 Historia()
