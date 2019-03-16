@@ -7,7 +7,6 @@ def Historia():
                        tit="moana",
                        style=dict(left=10, top=60,  Width=60, height=50))
 	moana.entra(cenaPraiamoana)                       
-	cenaPraiamoana.vai()
 	txt = txtmoana (cenaPraiamoana, "Hello")
 	moana.vai = txtmoana.vai
 	cenaPraiamoana.vai ()
