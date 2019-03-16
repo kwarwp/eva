@@ -13,3 +13,10 @@ SyntaxError: invalid syntax
                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 12:15:17.280 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  txtxango =T exto(cenafloresta,"hello")
+               ^
+SyntaxError: invalid syntax
+'''},
