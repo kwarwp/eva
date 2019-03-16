@@ -8,6 +8,6 @@ def Historia():
                            style=dict(left=70, top=60, width=100, height=60))
 	faniquita.entra(cenaFeliz)
 	txtfaniquita = Texto (cenaFeliz, "Hello")
-	cenaFeliz.txtfaniquita.vai
+	cena.Feliz.txtfaniquita.vai
 	cenaFeliz.vai()
 Historia()
