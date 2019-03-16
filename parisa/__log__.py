@@ -153,3 +153,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Sat Mar 16 2019 12:18:32.289 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  tomandJerry.vai=txttomandJerry.vai
+  ^
+IndentationError: unexpected indent
+'''},
