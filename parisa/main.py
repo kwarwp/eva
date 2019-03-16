@@ -8,6 +8,6 @@ def Historia():
                              style=dict(left=150, top=60, windth=60, height=200))
 	tomandJerry.entra(cenaHouse)
 	txtDoTomandJerry = Texto (cenaHouse,"Hello")
-	    tomandJerry.vai=(txttomandJerry.vai
+	    tomandJerry.vai=txttomandJerry.vai
 	cenaHouse.vai()
-    Historia
+Historia()
