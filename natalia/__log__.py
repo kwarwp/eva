@@ -83,3 +83,10 @@ SyntaxError: invalid syntax
                                                                       ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:51:58.279 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  apolo = Elemento (img = LinkDoCachorro,
+                                                                      ^
+SyntaxError: invalid syntax
+'''},
