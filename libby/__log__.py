@@ -20,3 +20,10 @@ SyntaxError: invalid syntax
                                                                                                                                     ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:24:29.332 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  cenaPraiamoana = Cena (img = "https://img.elo7.com.br/product/original/16965E0/painel-praia-g-frete-gratis-infanitl.jpg"
+                                                                                                                                    ^
+SyntaxError: invalid syntax
+'''},
