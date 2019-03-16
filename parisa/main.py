@@ -7,6 +7,7 @@ def Historia():
                              tit="TomandJerry",
                              style=dict(left=150, top=60, windth=60, height=200))
 	tomandJerry.entra(cenaHouse)
-	txtlinkDoTomandJerry =Texto
-	cenaHouse.vai()
-	Historia()
+	txtDoTomandJerry = Texto (cenaHouse,"Hello")
+	    tomandJerry.vai=(txttomandJerry.vai
+	cenaHouse.vsi()
+    Historia
