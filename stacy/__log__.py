@@ -20,3 +20,10 @@ SyntaxError: invalid syntax
                 ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:48:27.870 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  sereia = Elemento (imag = linkDaSereia,
+                                                                                                                                                          ^
+SyntaxError: invalid syntax
+'''},
