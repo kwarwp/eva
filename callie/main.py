@@ -5,5 +5,6 @@ def Historia():
 	cenaHouse = Cena (img = "https://www.simsnetwork.com/sites/simsnetwork.com/files/styles/box-downloads/public/20140218-downloads-arbuckle-03.jpg?itok=TcZfhuU-")
 	gato = Elemento (img = linkDoGato,
                       tit="Garfield",
+                      style=dict(left=150, top=60, width=60, height=200))
 	cenaHouse.vai()
 Historia()
