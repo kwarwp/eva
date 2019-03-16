@@ -62,3 +62,10 @@ IndentationError: unexpected indent
                           ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Mar 16 2019 11:27:01.239 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  linkDoTomandJerry="https://static.farahexperiences.com/-/media/yasconnect/project/wbw/character/carousel/cartoon-junction/tom_and_jerry.ashxtom_and_jerry.ashx
+                                                                                                                                                                ^
+SyntaxError: EOL while scanning string literal
+'''},
