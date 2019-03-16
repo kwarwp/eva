@@ -4,7 +4,7 @@ linkDoTomandJerry = "https://static.farahexperiences.com/-/media/yasconnect/proj
 def Historia():
 	cenaHouse = Cena (img ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AU55ME39mqUaas9E_eu_1YquG8lOU-vNnj-nGpEza1DckseESA")
 	TomandJerry= Elemento (img = linkdooTmandJerry,
-                   tit="TomandJerry)
+                   tit="TomandJerry")
                    style=dict(left=150, top=60, windth=60,height=200))
 	TomandJerry.entra(cenaHouse)
 	cenaHouse.vai()
