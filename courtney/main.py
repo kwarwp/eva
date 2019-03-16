@@ -8,6 +8,6 @@ def Historia():
                             style=dict(left=10, top=10, width=90, height=10))
 	bobesponja.entra(cenaPineapple)
 	txtBobEsponja = Texto (cenaPineapple,"Hello")
-	
+	BobEsponja.vai = txtBobEsponja.vai
 	cenaPineapple.vai()
 Historia()
