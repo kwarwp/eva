@@ -1,6 +1,6 @@
 # Samara
 from _spy.vittolino.main import Cena, Elemento, Texto
-linkDaMafalda ="https://i.pinimg.com/originals/18/0c/87/180c8759eec9badd395fd132859ddbc7.png"
+linkDoBobEsponja ="https://vignette.wikia.nocookie.net/infobob/images/6/60/Bob_esponja4.gif/revision/latest?cb=20111023134928&path-prefix=pt"
 def Historia():
-
+	cena
 Historia()
