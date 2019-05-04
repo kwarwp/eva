@@ -6,8 +6,8 @@ def Historia():
 	faniquita = Elemento (img = transparente,
                            tit="Faniquita",
                            style=dict(left=70, top=60, width=100, height=60))
-	faniquita.entra(cenaFeliz)
-	txtfaniquita = Texto (cenaFeliz, "Hello")
+	faniquita.entra(cena1)
+	txtfaniquita = Texto (cena1, "Hello")
 	faniquita.vai = txtfaniquita.vai
-	cenaFeliz.vai()
+	cena1.vai()
 Historia()
