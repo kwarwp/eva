@@ -17,3 +17,10 @@
     	faniquita.entra(cena1)
 NameError: name 'cena1' is not defined
 '''},
+{'date': 'Sat May 04 2019 12:28:19.112 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  txtfaniquita = Texto (cena2, "
+                                ^
+SyntaxError: EOL while scanning string literal
+'''},
