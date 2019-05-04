@@ -4,7 +4,7 @@ transparente ="https://www.transparenttextures.com/patterns/debut-light.png"
 def Historia():
 	cena3 = Cena (img = "https://i.imgur.com/I2u7XCz.png")
 	moana = Elemento (img = transparente, 
-                       tit="robinson crusoe",
+                       tit="Robinson Crusoe",
                        style=dict(left=10, top=60,  Width=60, height=50))
 	moana.entra(cena3)                       
 	txtmoana = Texto (cena3, "Hello")
