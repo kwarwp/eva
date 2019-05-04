@@ -4,7 +4,7 @@ transparente ="https://www.transparenttextures.com/patterns/debut-light.png "
 def Historia():
 	cena2 = Cena (img = "https://i.imgur.com/wQmMx4O.png")
 	faniquita = Elemento (img = transparente,
-                           tit="Faniquita",
+                           tit="Robinson Crusoe",
                            style=dict(left=70, top=60, width=100, height=60))
 	faniquita.entra(cena2)
 	txtfaniquita = Texto (cena2, "Hello")
