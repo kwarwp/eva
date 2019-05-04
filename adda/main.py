@@ -6,8 +6,8 @@ def Historia():
 	pequenasereia = Elemento (img = transparente,
                                tit="Mar",
                                style=dict(left=30, top=60, width=180, height=100))
-	pequenasereia.entra(cena1)
-	txtpequenasereia = Texto (cena1, "Hello")
+	pequenasereia.entra(cena4)
+	txtpequenasereia = Texto (cena4, "Hello")
 	pequenasereia.vai = txtpequenasereia.vai()
-	cena1.vai()
+	cena4.vai()
 Historia()
