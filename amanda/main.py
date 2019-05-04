@@ -6,8 +6,8 @@ def Historia():
 	gato = Elemento (img = transparente,
                       tit="Garfield",
                       style=dict(left=150, top=60, width=60, height=200))
-	gato.entra(cenaHouse)
-	txtGato = Texto (cenaHouse, "Hello")
+	gato.entra(cena1)
+	txtGato = Texto (cena1, "Hello")
 	gato.vai = txtGato.vai
-	cenaHouse.vai()
+	cena1.vai()
 Historia()
