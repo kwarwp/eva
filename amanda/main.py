@@ -1,6 +1,6 @@
 # cibele RC
 from _spy.vitollino.main import Cena, Elemento,Texto
-trasparente ="https://www.transparenttextures.com/patterns/debut-light.png"
+transparente ="https://www.transparenttextures.com/patterns/debut-light.png"
 def Historia():
 	cenaHouse = Cena (img = "https://www.simsnetwork.com/sites/simsnetwork.com/files/styles/box-downloads/public/20140218-downloads-arbuckle-03.jpg?itok=TcZfhuU-")
 	gato = Elemento (img = transparente,
