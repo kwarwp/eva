@@ -15,3 +15,10 @@
     texto = Texto("olá mundo", cena=cidade)
 TypeError: __init__() got multiple values for argument 'cena'
 '''},
+{'date': 'Thu Aug 08 2019 13:47:59.200 GMt-0300 (GMT-03:00) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  texto = Texto(cena=cidade, "olá mundo")
+                                        ^
+SyntaxError: non-keyword arg after keyword arg
+'''},
